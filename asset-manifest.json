@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/AndreyDid/React-reduse-app/static/js/main.2e73cda8.js",
-    "index.html": "/AndreyDid/React-reduse-app/index.html",
-    "main.2e73cda8.js.map": "/AndreyDid/React-reduse-app/static/js/main.2e73cda8.js.map"
+    "main.js": "/React-reduse-app/static/js/main.2e73cda8.js",
+    "index.html": "/React-reduse-app/index.html",
+    "main.2e73cda8.js.map": "/React-reduse-app/static/js/main.2e73cda8.js.map"
   },
   "entrypoints": [
     "static/js/main.2e73cda8.js"
